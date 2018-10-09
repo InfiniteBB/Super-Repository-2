@@ -6,3 +6,16 @@ x = 512;
 y = 384;
 image_angle = 45
 ;
+
+/// @DnDAction : YoYo Games.Instance Variables.Set_Health
+/// @DnDVersion : 1
+/// @DnDHash : 6FF6FDC8
+/// @DnDDisabled : 1
+/// @DnDArgument : "health" "600"
+
+
+/// @DnDAction : YoYo Games.Drawing.Draw_Healthbar
+/// @DnDVersion : 1
+/// @DnDHash : 0553B68F
+/// @DnDDisabled : 1
+/// @DnDArgument : "value" "600"
